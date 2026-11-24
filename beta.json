@@ -1,11 +1,11 @@
 {
-  "version": "0.1.4",
-  "notes": "Initial automatic update system test. No feature changes; this release tests secure update delivery, digital signature verification, pre-update database protection, installation and restart.",
-  "pub_date": "2026-11-24T23:21:17Z",
+  "version": "0.1.5",
+  "notes": "Automated release publishing system test.",
+  "pub_date": "2026-11-24T23:54:09Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSVGIzSENLOVpOWCtGaGd5Rnc3RzVxblQ2VFhzSDNSM1ZRVmxZNWo1NnhmVURUc2cyRXpNWk9TQlI5MU1ZVGNBK0Q5QVlTejBqRDZYWjQ0WUxUUStTWU5nSUdIRFh6bXdRPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk1NTYwNDEwCWZpbGU6U2hvd1RhaWxzIFByb18wLjEuNF94NjQtc2V0dXAuZXhlCXZlcnNpb246MC4xLjQKZVkzY2VwdGJHYnp1ekdtNjVQM0l5TjR5MExzdmNyTHVJT1RiU1c4emUrYzJ3ZTB2V1FJdHJzaUFqYkErM0JYdE4xRzJoL3hFK2p2cGFOUWFzM2dVRHc9PQo=",
-      "url": "https://github.com/ShowTails/showtails-pro-releases/releases/download/v0.1.4/ShowTails.Pro_0.1.4_x64-setup.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSVGIzSENLOVpOWHd3MWs5YWxDOE5MdUs0OW0vejA0dW12RWFpMitKQnZ5bEp0S2prREVZZkQ0OGxKZGVMY2VyQnhwb3VzNHZBY2NYSlJuM3NBYlB2WVFXY1RSV0JyZWdFPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk1NTY0MzE5CWZpbGU6U2hvd1RhaWxzIFByb18wLjEuNV94NjQtc2V0dXAuZXhlCXZlcnNpb246MC4xLjUKRTVOWmtwUHh0ZkZYWmNVek92U1hqdGFnM3pMNWhYUkxVbEFOemhDMDVNVjgvQU8vVEFnSTJsM0NGdmtkVDFPNDkwSzIyTHRqcm9rR3A0aEw4N0gwQ0E9PQo=",
+      "url": "https://github.com/ShowTails/showtails-pro-releases/releases/download/v0.1.5/ShowTails.Pro_0.1.5_x64-setup.exe"
     }
   }
 }
