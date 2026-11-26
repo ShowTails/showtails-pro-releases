@@ -1,11 +1,11 @@
 {
-  "version": "0.1.10",
-  "notes": "Added native offline license verification, secure Windows device identity, protected license storage, and startup license verification. Licensing enforcement remains disabled.",
-  "pub_date": "2026-11-25T23:29:38Z",
+  "version": "0.1.13",
+  "notes": "Improved pedigree customization persistence, restored offline pan and zoom controls, corrected DOB formatting, and improved eight-generation pedigree text contrast in dark mode.",
+  "pub_date": "2026-11-26T00:35:54Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSVGIzSENLOVpOWHg4ZWVpV1ZVcFZSVkdzSFlyOGMrYVpHL1Bra0t1ZVN3dFBiV1hBTkMzZ3kwUkdUOXk1RExWM241Q0JtMlFpMHEzOGRET2s1OStXN0FEQi83aFRkbWd3PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk1NjQ5MjUwCWZpbGU6U2hvd1RhaWxzIFByb18wLjEuMTBfeDY0LXNldHVwLmV4ZQl2ZXJzaW9uOjAuMS4xMApqWDVrWXBubmx2NzVyd2dPRStDeHJQRTlUQ1NBaWRibHMzS1p6SHJIYnNiUDFKMXZrVjhhSFFXdUkxVFdQZVVGZnZ5bi9KTjRlV0hScjR3bkFCRy9CQT09Cg==",
-      "url": "https://github.com/ShowTails/showtails-pro-releases/releases/download/v0.1.10/ShowTails.Pro_0.1.10_x64-setup.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSVGIzSENLOVpOWDM4Z3dBQWZLQVFpRktnbC91b1JXdlJVMXVsRmVwWXhwc0FJTFNnejVxL1JMTEU5dmdXZm00d3paa2tDa2lwdFZTNW5TSVh5eThDMEhScmUxcHhZRVFnPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk1NjUzMjU1CWZpbGU6U2hvd1RhaWxzIFByb18wLjEuMTNfeDY0LXNldHVwLmV4ZQl2ZXJzaW9uOjAuMS4xMwp5WFRtMHZYREJ0cER3bXFaZ3cya2Z2T3lQc1l4L245ZUUvc0k0R2VBdW1TTXYwK3ZKL3drYWZlTkdjVzlvRzRUWFAwQXRhZkpMRFV4Y3RldnRDdXhEZz09Cg==",
+      "url": "https://github.com/ShowTails/showtails-pro-releases/releases/download/v0.1.13/ShowTails.Pro_0.1.13_x64-setup.exe"
     }
   }
 }
